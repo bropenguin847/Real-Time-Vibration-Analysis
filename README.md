@@ -14,3 +14,5 @@ https://www.youtube.com/watch?v=5RaKuFRM8Og
 
 https://controllerstech.com/how-to-interface-mpu6050-gy-521-with-stm32/
 
+https://www.bennettnotes.com/notes/stm32-blackpill-with-stmcubeide-usb-serial/
+
