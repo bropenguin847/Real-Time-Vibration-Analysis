@@ -1,6 +1,8 @@
 # Real-Time-Vibration-Analysis
 Using STM32 Black Pill with MPU 6050 accelerator sensor
 
+<img src="images\Wiring Diagram.png" width="1000" height="600" alt="Wiring Diagram">
+
 
 Reference:
 
