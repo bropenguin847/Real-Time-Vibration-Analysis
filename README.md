@@ -31,9 +31,14 @@ https://controllerstech.com/how-to-interface-mpu6050-gy-521-with-stm32/
 <br>
 <br>
 
+
+[Mpu 6050 Arduino Tutorial for Beginners](https://www.youtube.com/watch?v=SVI_NldMjlE)
+
 [datasheet with address](https://download.mikroe.com/documents/datasheets/MPU-6000_datasheet.pdf)
 
 [latest datasheet](https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Register-Map1.pdf)
+
+[WeAct Black Pill V2.0]https://stm32-base.org/boards/STM32F411CEU6-WeAct-Black-Pill-V2.0.html
 
 <br>
 
