@@ -1,7 +1,26 @@
 # Real-Time-Vibration-Analysis
 Using STM32 Black Pill with MPU 6050 accelerator sensor
 
+## Introduction
+his project focuses on developing a real-time vibration analysis system using the STM32F411CEU6 microcontroller (Black Pill) and the MPU6050 sensor, integrated through I2C communication. The MPU6050 combines a 3-axis accelerometer and a 3-axis gyroscope, providing motion and vibration data for analysis. Data acquisition and processing were implemented using STM32CubeIDE, with results displayed in Serial Studio for visualization. The system serves practical applications such as detecting vibrations in machinery, monitoring structural integrity, or analyzing dynamic motions in robotics and vehicles.
+
+## Wiring Diagram
 <img src="images\Wiring Diagram.png" width="1000" height="600" alt="Wiring Diagram">
+
+## Components
+<img src="images\BOM.png" alt="BOM">
+
+## Steps
+1. Download necessary softwares: STM32CubeIDE
+   * Go the [ST official website](https://www.st.com/en/development-tools/stm32cubeide.html). When downloading this for the first time, users need to manually create a MyST account with their email. After that, the download link will be sent to the email inbox. Simply click the link, and the download will start automatically.
+   * <img src="images\downloadStm32.png" alt="downloadStm32">
+2. Manually setup STM32 blackpill (STM32F411CEU6) in STM32CubeIDE.
+   - Click on "Create a New STM32 project", enter "STM32F411CEU6" in Commercial Part Number. And select it MCUs/MPUs List.
+   - <img src="images\selectBlackPill.png" alt="selectBlackPill">
+   - Enter any project name, and then select the file location. After that, click Finish.
+   - Go to Clock Configurations tab and configure the settings as below:
+   - <img src="images\clockConfig.png" alt="clockConfig">
+
 
 
 Reference:
