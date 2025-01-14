@@ -5,7 +5,7 @@ Using STM32 Black Pill with MPU 6050 accelerator sensor
 his project focuses on developing a real-time vibration analysis system using the STM32F411CEU6 microcontroller (Black Pill) and the MPU6050 sensor, integrated through I2C communication. The MPU6050 combines a 3-axis accelerometer and a 3-axis gyroscope, providing motion and vibration data for analysis. Data acquisition and processing were implemented using STM32CubeIDE, with results displayed in Serial Studio for visualization. The system serves practical applications such as detecting vibrations in machinery, monitoring structural integrity, or analyzing dynamic motions in robotics and vehicles.
 
 ## Wiring Diagram
-<img src="images\Wiring Diagram.png" width="1000" height="600" alt="Wiring Diagram">
+<img src="images\Wiring Diagram.png" alt="Wiring Diagram">
 
 ## Components
 <kbd>
