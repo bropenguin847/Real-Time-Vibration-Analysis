@@ -33,6 +33,27 @@ This project focuses on developing a real-time vibration analysis system using t
 <img src="images\FlowChart.svg" alt="FlowChart">
 </kbd>
 
+## Results 📊
+#### Not in Motion
+<kbd>
+<img src="images\result_not_moving.png" alt="result_not_moving">
+</kbd>
+
+#### In Motion, Vibration: Low
+<kbd>
+<img src="images\result_in_motion_low.png" alt="result_in_motion_low">
+</kbd>
+
+#### In Motion, Vibration: High
+<kbd>
+<img src="images\result_in_motion_high.png" alt="result_in_motion_high">
+</kbd>
+
+#### In Motion, Sudden Vibration
+<kbd>
+<img src="images\result_sudden_acceleration.png" alt="result_sudden_acceleration">
+</kbd>
+
 ---
 ## Reference 📑
 
