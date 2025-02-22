@@ -21,6 +21,10 @@ This project focuses on developing a real-time vibration analysis system using t
 <img src="images\Wiring Diagram.png" alt="Wiring Diagram">
 </kbd>
 
+<kbd>
+<img src="images/physical.jpg" alt="physical">
+</kbd>
+
 ---
 ## Components ✅
 <kbd>
