@@ -16,6 +16,10 @@ This project focuses on developing a real-time vibration analysis system using t
 </kbd>
 
 ---
+## Video ▶️
+[Demo Video on Youtube](https://youtu.be/wHUjtfv4aeY)
+
+---
 ## Wiring Diagram 🔧
 <kbd>
 <img src="images\Wiring Diagram.png" alt="Wiring Diagram">
